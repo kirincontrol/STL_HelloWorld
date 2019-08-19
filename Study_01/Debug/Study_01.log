@@ -1,2 +1,3 @@
 ﻿  Main.cpp
+c:\users\stl\desktop\kirin\visualstudio_study\study_01\study_01\main.cpp(8): warning C4101: 'Y' :참조되지 않은 지역 변수입니다.
   Study_01.vcxproj -> C:\Users\stl\Desktop\Kirin\VisualStudio_Study\Study_01\Debug\Study_01.exe

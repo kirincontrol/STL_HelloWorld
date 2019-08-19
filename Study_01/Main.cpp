@@ -2,11 +2,12 @@
 
 int main()
 {
-	int X = 3;
-	int Y = 4;
-	int Sum = X + Y;
+	int MyGold = 3;
+	int AddGold = 4;
+	int MyNewGold = MyGold + AddGold;
+	int Y;
 
-	printf("%d+%d = %d",X, Y, Sum);
+	printf("%d+%d = %d", MyGold, AddGold, MyNewGold);
 
 	return 0;
 }
